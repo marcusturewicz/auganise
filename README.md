@@ -1,2 +1,2 @@
 # auganise
-Data augmentation for Keras
+Data augmentation for TensorFlow
